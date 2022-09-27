@@ -1,6 +1,6 @@
 # HTML Advanced
-*This repo implements a web page from scratch. 
-*Additionally, this implementation focuses solely on HTML structure without inclusion of CSS styling
+* This repo implements a web page from scratch. 
+* Additionally, this implementation focuses solely on HTML structure without inclusion of CSS styling
 
 # Design
 
