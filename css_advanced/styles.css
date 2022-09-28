@@ -1,0 +1,13 @@
+header{
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+    background-image: url("images/background.png");
+    padding: 2% 5% 2% 5%;
+    filter: grayscale(100%);
+    position: absolute;
+    left: -0.025%;
+    right: -0.025%;
+    top: 0%;
+    bottom: -26.48%
+}
