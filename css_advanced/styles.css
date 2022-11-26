@@ -6,8 +6,8 @@ header{
     padding: 2% 5% 2% 5%;
     filter: grayscale(100%);
     position: absolute;
-    left: -0.025%;
-    right: -0.025%;
+    left: 0%;
+    right: 0%;
     top: 0%;
-    bottom: -26.48%
+    bottom: 0%;
 }
